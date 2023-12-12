@@ -1,1 +1,10 @@
 theme: minima
+site.author.name: Santosh Kumar Arjunan
+minima:
+  skin: solarized
+header_pages:
+  - about.md
+  - portfolio.md  
+minima:
+  date_format: "%b %-d, %Y"
+  
